@@ -1,10 +1,239 @@
 <div align="center">
 
-<img src="https://www.esparksit.com/logo-static.svg" alt="ESPARKS IT SOLUTIONS" width="200" />
+<img src="https://www.esparksit.com/logo-static.svg" alt="ESPARKS IT SOLUTIONS" width="220" />
+
+<br/>
 
 # ESPARKS IT SOLUTIONS
 
-### Building Digital Products That Generate Leads & Drive Growth
+**Full-Service Software Development Partner for Growing Businesses**
+
+> *We build conversion-focused websites, mobile apps, and AI-powered systems that help businesses in the USA, Australia, New Zealand, Netherlands, and UAE generate more leads and scale faster.*
+
+<br/>
+
+[![Website](https://img.shields.io/badge/🌐_Website-esparksit.com-7C3AED?style=for-the-badge)](https://www.esparksit.com)
+[![Quote](https://img.shields.io/badge/💬_Get_a_Quote-Free_Consultation-0EA5E9?style=for-the-badge)](https://www.esparksit.com/quote)
+[![Book a Call](https://img.shields.io/badge/📅_Book_a_Call-30_Min_Free-10B981?style=for-the-badge)](https://www.esparksit.com/book)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/esparksit)
+
+</div>
+
+---
+
+## 🏢 Who We Are
+
+ESPARKS IT SOLUTIONS is a **technology partner**, not just a vendor. Since 2010 we have been helping startups, SMBs, and enterprises across five continents transform their ideas into robust, scalable digital products.
+
+Our teams bring together **engineering excellence, design thinking, and business strategy** to deliver software that doesn't just work — it *performs*.
+
+<br/>
+
+<div align="center">
+
+| 📅 Founded | 🚀 Projects Delivered | 👥 Team Size | 🌍 Countries | ⭐ Satisfaction |
+|:-----------:|:---------------------:|:------------:|:------------:|:--------------:|
+| **2010** | **20+** | **50+ Experts** | **15+** | **98%** |
+
+</div>
+
+---
+
+## 🎯 Why Businesses Choose Us
+
+| ✅ Differentiator | What It Means For You |
+|---|---|
+| **Results-first mindset** | Every feature we build is tied to a business metric — leads, conversions, or retention |
+| **Dedicated project teams** | You get a fixed squad (PM, designers, engineers) — not rotating freelancers |
+| **Transparent process** | Weekly demos, live roadmaps, and Slack/Teams access to your team at all times |
+| **Full-stack capability** | Design → Frontend → Backend → Cloud → QA → Launch — one partner, no handoff gaps |
+| **Post-launch ownership** | We don't disappear after go-live; retainer and SLA-based support available |
+| **Multi-market expertise** | Deep knowledge of USA, AU, NZ, UAE, and NL compliance, UX standards, and regulations |
+
+---
+
+## 🛠️ Services
+
+### Web & Mobile Development
+Custom web applications, e-commerce platforms, SaaS dashboards, and cross-platform mobile apps built to convert visitors into customers.
+
+**Stack:** React · Next.js · Node.js · TypeScript · React Native · Flutter · PostgreSQL · Redis
+
+### AI & Machine Learning
+Intelligent automation, predictive analytics, NLP chatbots, and computer vision systems integrated into your existing workflows.
+
+**Stack:** Python · TensorFlow · PyTorch · OpenAI / LangChain · AWS SageMaker · Scikit-learn
+
+### Cloud & DevOps
+Scalable, cost-optimised cloud infrastructure with CI/CD pipelines, containerisation, and 24/7 monitoring.
+
+**Stack:** AWS · Azure · GCP · Docker · Kubernetes · Terraform · GitHub Actions
+
+### UI/UX Design
+Research-driven design systems, wireframes, prototypes, and high-fidelity interfaces that guide users to action.
+
+**Tools:** Figma · Adobe XD · User Testing · Accessibility (WCAG 2.1)
+
+### Cybersecurity
+Security-by-design architecture, penetration testing, compliance consulting (HIPAA · SOC2 · GDPR · ISO 27001).
+
+---
+
+## ⚙️ How We Work
+
+```
+1. DISCOVER          2. DESIGN           3. BUILD            4. LAUNCH           5. GROW
+─────────────────    ─────────────────   ─────────────────   ─────────────────   ─────────────────
+Requirements         UX Research         Agile Sprints       CI/CD Deploy        Analytics Review
+Scope & Roadmap  →   Wireframes      →   Code Reviews    →   QA & Testing    →   Optimisation
+Timeline & Cost      High-fi Mockups     Weekly Demos        Staging → Prod      Ongoing Support
+```
+
+- **Sprint length:** 2 weeks
+- **Communication:** Slack / Teams / Jira — your choice
+- **Delivery method:** Git-based, with documented branching strategy and pull-request reviews
+- **Quality gates:** Automated testing + manual QA before every release
+
+---
+
+## 🌍 Industries & Markets
+
+| Industry | Key Deliverables |
+|----------|-----------------|
+| 🛒 E-Commerce & Retail | Headless storefronts, AI recommendations, inventory automation |
+| 🏥 Healthcare & MedTech | HIPAA-compliant portals, telemedicine, EHR integrations |
+| 💰 FinTech & Banking | Payment gateways, real-time dashboards, KYC/AML automation |
+| 🎓 Education & EdTech | LMS platforms, live classrooms, adaptive learning engines |
+| 🚗 Automotive & IoT | Fleet management, OTA updates, connected device dashboards |
+| 🏢 Real Estate & PropTech | Property listing platforms, CRM integrations, virtual tours |
+| ✈️ Travel & Hospitality | Booking engines, dynamic pricing, loyalty systems |
+| ⚡ Energy & Utilities | Smart metering, grid monitoring, sustainability reporting |
+
+### 🗺️ We serve clients locally in:
+[🇺🇸 United States](https://www.esparksit.com/us) &nbsp;|&nbsp;
+[🇦🇺 Australia](https://www.esparksit.com/au) &nbsp;|&nbsp;
+[🇳🇿 New Zealand](https://www.esparksit.com/nz) &nbsp;|&nbsp;
+[🇦🇪 UAE](https://www.esparksit.com/uae) &nbsp;|&nbsp;
+[🇳🇱 Netherlands](https://www.esparksit.com/nl)
+
+---
+
+## 💻 Technology Stack
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+
+</div>
+
+---
+
+## 📂 Our Repositories
+
+| Repository | Description | Stack |
+|------------|-------------|-------|
+| 🌐 [esparksit-website](https://github.com/esparksit/esparksit-website) | Production website — Next.js 15 App Router, TypeScript, Tailwind CSS, PM2 self-hosted | Next.js · TypeScript · Tailwind |
+
+> More open-source tools, starter kits, and boilerplates are being published. **Watch this org** to be notified.
+
+---
+
+## 💼 Case Studies & Portfolio
+
+Explore real-world projects we've delivered across industries:
+
+👉 **[www.esparksit.com/portfolio](https://www.esparksit.com/portfolio)**
+
+Selected highlights:
+- **FinTech Payment Platform** — Real-time transaction processing for 500K+ users
+- **Healthcare Patient Portal** — HIPAA-compliant telemedicine for a US-based MedTech company
+- **E-Commerce Marketplace** — AI-powered product recommendations driving 35% uplift in AOV
+- **EdTech LMS** — Adaptive learning engine used by 80+ institutions across 12 countries
+
+---
+
+## 🤝 Partner With Us
+
+Looking for a technology partner with the depth to handle your full product lifecycle?
+
+**Three ways to start:**
+
+| Option | Best For | Link |
+|--------|----------|------|
+| 📋 **Request a Quote** | Projects with defined scope | [Get a Quote](https://www.esparksit.com/quote) |
+| 📅 **Book a Discovery Call** | Exploratory conversations | [Book 30 min](https://www.esparksit.com/book) |
+| 📧 **Email Us** | RFPs, partnerships, general enquiries | [info@esparksit.com](mailto:info@esparksit.com) |
+
+**Direct contact:**
+
+| | |
+|---|---|
+| 📞 Phone | [+91 90650 18028](tel:+919065018028) |
+| 💼 LinkedIn | [linkedin.com/company/esparksit](https://www.linkedin.com/company/esparksit) |
+| 🐦 Twitter/X | [@esparksit](https://twitter.com/esparksit) |
+
+---
+
+## 🧑‍💻 We're Hiring
+
+We're always looking for talented engineers, designers, and product managers who care deeply about craft and outcomes.
+
+👉 **[View open positions](https://www.esparksit.com/careers)**
+
+Current openings include roles in: Full Stack Development · Mobile (React Native / Flutter) · AI/ML Engineering · DevOps · UI/UX Design · Product Management
+
+---
+
+<div align="center">
+
+**© 2026 ESPARKS IT SOLUTIONS. All rights reserved.**
+
+*Turning ideas into scalable digital products — one commit at a time.*
+
+[![Website](https://img.shields.io/badge/esparksit.com-Visit_Us-7C3AED?style=flat-square)](https://www.esparksit.com)
+
+</div>
 
 [![Website](https://img.shields.io/badge/Website-esparksit.com-7C3AED?style=for-the-badge&logo=globe&logoColor=white)](https://www.esparksit.com)
 [![Contact](https://img.shields.io/badge/Contact%20Us-Get%20a%20Quote-0EA5E9?style=for-the-badge&logo=mail&logoColor=white)](https://www.esparksit.com/contact)
