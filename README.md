@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://www.esparksit.com/logo-static.svg" alt="ESPARKS IT SOLUTIONS" width="220" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ESPARKS%20IT%20SOLUTIONS&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Service%20Software%20Development%20Partner&descAlignY=58&descSize=18&descColor=c4b5fd" alt="ESPARKS IT SOLUTIONS" />
 
 <br/>
 
-# ESPARKS IT SOLUTIONS
-
-**Full-Service Software Development Partner for Growing Businesses**
-
-> *We build conversion-focused websites, mobile apps, and AI-powered systems that help businesses in the USA, Australia, New Zealand, Netherlands, and UAE generate more leads and scale faster.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Web+%26+Mobile+App+Development;AI+%26+Machine+Learning+Solutions;Cloud+Infrastructure+%26+DevOps;UI%2FUX+Design+%26+Cybersecurity;Trusted+by+Businesses+in+5+Countries)](https://www.esparksit.com)
 
 <br/>
 
@@ -16,6 +12,8 @@
 [![Quote](https://img.shields.io/badge/💬_Get_a_Quote-Free_Consultation-0EA5E9?style=for-the-badge)](https://www.esparksit.com/quote)
 [![Book a Call](https://img.shields.io/badge/📅_Book_a_Call-30_Min_Free-10B981?style=for-the-badge)](https://www.esparksit.com/book)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/esparksit)
+
+![Profile Views](https://komarev.com/ghpvc/?username=esparksit&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -37,7 +35,9 @@ Our teams bring together **engineering excellence, design thinking, and business
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ## 🎯 Why Businesses Choose Us
 
@@ -77,7 +77,9 @@ Research-driven design systems, wireframes, prototypes, and high-fidelity interf
 ### Cybersecurity
 Security-by-design architecture, penetration testing, compliance consulting (HIPAA · SOC2 · GDPR · ISO 27001).
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ## ⚙️ How We Work
 
@@ -116,7 +118,9 @@ Timeline & Cost      High-fi Mockups     Weekly Demos        Staging → Prod   
 [🇦🇪 UAE](https://www.esparksit.com/uae) &nbsp;|&nbsp;
 [🇳🇱 Netherlands](https://www.esparksit.com/nl)
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ## 💻 Technology Stack
 
@@ -177,7 +181,9 @@ Timeline & Cost      High-fi Mockups     Weekly Demos        Staging → Prod   
 
 > More open-source tools, starter kits, and boilerplates are being published. **Watch this org** to be notified.
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 ## 💼 Case Studies & Portfolio
 
@@ -223,7 +229,9 @@ We're always looking for talented engineers, designers, and product managers who
 
 Current openings include roles in: Full Stack Development · Mobile (React Native / Flutter) · AI/ML Engineering · DevOps · UI/UX Design · Product Management
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
 
 <div align="center">
 
@@ -231,13 +239,11 @@ Current openings include roles in: Full Stack Development · Mobile (React Nativ
 
 *Turning ideas into scalable digital products — one commit at a time.*
 
-[![Website](https://img.shields.io/badge/esparksit.com-Visit_Us-7C3AED?style=flat-square)](https://www.esparksit.com)
+[![Website](https://img.shields.io/badge/🌐_Website-esparksit.com-7C3AED?style=for-the-badge)](https://www.esparksit.com)
+[![Email](https://img.shields.io/badge/📧_Email-info@esparksit.com-0EA5E9?style=for-the-badge)](mailto:info@esparksit.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/esparksit)
 
-</div>
-
-[![Website](https://img.shields.io/badge/Website-esparksit.com-7C3AED?style=for-the-badge&logo=globe&logoColor=white)](https://www.esparksit.com)
-[![Contact](https://img.shields.io/badge/Contact%20Us-Get%20a%20Quote-0EA5E9?style=for-the-badge&logo=mail&logoColor=white)](https://www.esparksit.com/contact)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-esparksit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/esparksit)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 
 </div>
 
